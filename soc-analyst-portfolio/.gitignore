@@ -1,0 +1,7 @@
+# Packet captures can contain personal data (passwords, sites you visited).
+# Keep them out of a public repo. Share screenshots of filtered, clean examples instead.
+*.pcap
+*.pcapng
+__pycache__/
+*.pyc
+.DS_Store
